@@ -10,6 +10,7 @@ APIs, PostgreSQL performance tuning and Docker deployments on Linux.
 - **Python**: FastAPI, Django
 - **Data & infra**: PostgreSQL, Docker, Linux, Git
 - **Automation**: n8n, Selenium
+- AI & LLMs: LLM API integration (Anthropic Claude), Claude Code as a daily dev tool (CLAUDE.md, plan mode, subagents), AI-assisted automation with n8n, image generation APIs (FLUX via fal.ai / Replicate)
 
 Languages: French and Spanish (native), English.
 
