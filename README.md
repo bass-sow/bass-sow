@@ -1,16 +1,16 @@
 ### Hi, I'm Bassirou
 
-Odoo and Python backend developer based in Barcelona, with 4 years of experience.
+AI backend developer working with Python, with 4 years of experience. I build LLM-powered backends: RAG, tool-calling agents and document extraction, on top of FastAPI, PostgreSQL and AWS.
 
-Most of my work is customizing Odoo for manufacturing and distribution companies:
-MRP, inventory and sales modules, integrations with external systems through REST
-APIs, PostgreSQL performance tuning and Docker deployments on Linux.
+My background is Odoo for manufacturing and distribution companies (MRP, inventory and sales modules, REST API integrations, PostgreSQL tuning, Docker on Linux), and that is where I apply AI today: assistants that work over real ERP data.
 
-- **Odoo**: custom modules, ORM, views, scheduled actions, mail templates, tests
+- **AI & LLMs**: RAG (pgvector), tool-calling agents, document extraction, LLM API integration (Anthropic Claude, Amazon Bedrock), Claude Code as a daily dev tool
 - **Python**: FastAPI, Django
-- **Data & infra**: PostgreSQL, Docker, Linux, Git
+- **Odoo**: custom modules, ORM, views, scheduled actions, mail templates, tests
+- **Data & infra**: PostgreSQL, Docker, Linux, AWS Lambda, Terraform, Git
 - **Automation**: n8n, Selenium
-- AI & LLMs: LLM API integration (Anthropic Claude), Claude Code as a daily dev tool (CLAUDE.md, plan mode, subagents), AI-assisted automation with n8n, image generation APIs (FLUX via fal.ai / Replicate)
+
+**Featured project:** [odoo-ai-assistant](https://github.com/bass-sow/odoo-ai-assistant) — LLM assistant for Odoo warehouses: RAG over procedures, tool-calling agent over stock data, delivery note extraction.
 
 Languages: French and Spanish (native), English.
 
